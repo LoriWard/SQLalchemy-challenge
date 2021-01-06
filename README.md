@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-SQLAlchemy Homework - Surfs Up!
+SQLAlchemy Homework - Surfs Up! Climate Analysis
 
 # SQLAlchemy Homework - Surfs Up!
 
